@@ -1,0 +1,10 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 420 96' role='img' aria-label='NETSOL Technologies logo'>
+  <defs>
+    <linearGradient id='ink' x1='0%' y1='0%' x2='100%' y2='0%'>
+      <stop offset='0%' stop-color='#b8b8b8'/>
+      <stop offset='55%' stop-color='#4b4b4b'/>
+      <stop offset='100%' stop-color='#101010'/>
+    </linearGradient>
+  </defs>
+  <text x='50%' y='58%' text-anchor='middle' font-family='Segoe UI, Arial, sans-serif' font-size='34' font-weight='700' letter-spacing='0.5' fill='url(#ink)'>NETSOL Technologies</text>
+</svg>

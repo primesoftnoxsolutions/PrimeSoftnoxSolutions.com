@@ -1,0 +1,8 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 96' role='img' aria-label='Meta logo'>
+  <rect width='320' height='96' fill='none'/>
+  <g fill='none' stroke='#1F6FFF' stroke-width='8' stroke-linecap='round' stroke-linejoin='round'>
+    <path d='M46 58c18-28 30-28 48 0 16 24 29 24 45 0 18-28 30-28 48 0'/>
+    <path d='M46 58c-3-13 4-24 16-24 12 0 20 9 32 24'/>
+    <path d='M187 58c12-15 20-24 32-24 12 0 19 11 16 24'/>
+  </g>
+</svg>
